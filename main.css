@@ -1,0 +1,62 @@
+body {
+    font-family: helvetica;
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: 0;
+}
+
+.header {
+    background-color: #000;
+    height: 40px;
+    margin-top: -20px;
+    width: 100%;
+}
+
+.header-intro {
+    color: #e8e0de;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 9px;
+    text-shadow: 6px 6px 6px #fff;
+}
+
+/* Top picture settings begin here! */
+
+.top-picture {
+    border: 2px solid #000;
+    height: 600px;
+    width: 100%;
+}
+
+/* Nav Bar settings begin here! */
+
+.main-navigation {
+    background-color: #c60936;
+    box-shadow: 3px 3px 3px #000;
+    color: #e0d904;
+    height: 40px;
+    margin-top: -4px;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000;
+    width: 100%;
+}
+
+.main-navigation__ulist {
+    font-size: 14px;
+    font-weight: 700;
+    list-style-type: none;
+    margin: 0 auto;
+}
+
+.main-navigation__link {
+    color: #e0d904;
+    display: inline-block;
+    margin: 12px;
+    text-decoration: none;
+}
+
+.main-navigation__link:hover {
+    text-shadow: 4px 4px 4px #000;
+    transform: scale(1.1);
+}
