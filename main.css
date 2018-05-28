@@ -10,10 +10,9 @@ body {
     background-color: #000;
     height: 40px;
     margin-top: -20px;
-    width: 100%;
 }
 
-.header-intro {
+.header__intro {
     color: #e8e0de;
     font-size: 20px;
     font-weight: 700;
