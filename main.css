@@ -14,7 +14,7 @@ body {
 
 .header__intro {
     color: #e8e0de;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 700;
     padding: 9px;
     text-shadow: 6px 6px 6px #fff;
@@ -41,21 +41,21 @@ body {
     width: 100%;
 }
 
-.main-navigation__ulist {
+.main__navigation-ulist {
     font-size: 14px;
     font-weight: 700;
     list-style-type: none;
     margin: 0 auto;
 }
 
-.main-navigation__link {
+.main__navigation-link {
     color: #e0d904;
     display: inline-block;
     margin: 12px;
     text-decoration: none;
 }
 
-.main-navigation__link:hover {
+.main__navigation-link:hover {
     text-shadow: 4px 4px 4px #000;
     transform: scale(1.1);
 }
